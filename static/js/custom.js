@@ -104,12 +104,13 @@ $(document).ready(function () {
     });
 
     //animatedModal
-	$("#demo00").animatedModal({modalTarget: 'sureModal'})
-    $("#demo01").animatedModal({modalTarget: 'securityModal'});
-	$("#demo02").animatedModal({modalTarget: 'inferpipeModal'});
-	$("#demo03").animatedModal({modalTarget: 'privacyModal'});
-	$("#demo04").animatedModal({modalTarget: 'principalModal'});
-	$("#demo05").animatedModal({modalTarget: 'sohbingModal'});
+    $("#demo01").animatedModal({modalTarget: 'sceneCacheModal'});
+	$("#demo02").animatedModal({modalTarget: 'atsModal'})
+	$("#demo03").animatedModal({modalTarget: 'webModal'});
+	$("#demo04").animatedModal({modalTarget: 'excavatorModal'});
+	$("#demo05").animatedModal({modalTarget: 'appModal'});
+	$("#demo06").animatedModal({modalTarget: 'fileSysModal'});
+	$("#demo07").animatedModal({modalTarget: 'insModal'});
 
     // Contact Form 	
 
